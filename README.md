@@ -2,7 +2,7 @@
 - I am from Hyderabad!
 - 👀 I’m interested in many things hehe
 - I'm studying in SRM University, Ramapuram, Chennai
-- 🌱 I’m currently learning GIT, HTML and many more...
+- 🌱 I’m currently learning GIT, HTML, JavaScript and many more...
 - Present trainee at CGCS Education
 - 💞️ I’m looking to collaborate on many
 - Part of clubs like CODEZILLA and SPARATANS
