@@ -3,8 +3,8 @@
 - 👀 I’m interested in many things hehe
 - I'm studying in SRM University, Ramapuram, Chennai
 - 🌱 I’m currently learning GIT, HTML, JavaScript and many more...
-- Present trainee at CGCS Education
-- 💞️ I’m looking to collaborate on many
+- Presently trying to be busy
+- 💞️ I’m looking to collaborate with many
 - Part of clubs like CODEZILLA and SPARATANS
 - 📫 How to reach me? Email! pc3953@srmist.edu.in
 
